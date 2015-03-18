@@ -1,7 +1,9 @@
-# Sapp
+# TodoMVC demo with Ember-cli
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is the typically TodoMVC app coded using Ember.js
+I found Ember a really good framework, it's all about routes and Url's. I liked that.
+
+If your going to fork follolw this instructions and you are fine.
 
 ## Prerequisites
 
